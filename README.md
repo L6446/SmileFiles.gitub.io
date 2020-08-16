@@ -1,2 +1,2 @@
-# SmileFiles.gitub.io
+# SmileFiles.github.io
 SmileFiles
